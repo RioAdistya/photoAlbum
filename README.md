@@ -26,6 +26,7 @@ $ npm install (to install dependencies on the project stored in package.json)
 <p>Buat database postgre menggunakan ORM Sequelize</p>
 
 ```bash
+create name dataase postgre dan sesuaikan nama pada database sama config kalian
 $ npx sequelize db:create (to create database)
 ```
 
